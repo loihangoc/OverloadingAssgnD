@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570242923 source:c:\users\xlx_l\desktop\computer science 2\assgnd\main.cpp
+	<iostream>
+	<iostream>
+	<iomanip>
+	<string>
+	<sstream>
+	<array>
+
